@@ -21,7 +21,7 @@ I am an effective communicator and team player, able to work independently or as
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I am currently learning **react**
+- I am currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
