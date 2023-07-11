@@ -1,6 +1,6 @@
 ![logo](https://i.ibb.co/VjntyxQ/White-Minimalist-Profile-Linked-In-Banner-1.png?w=2000)
 <h1 align="center">Hi, there This is Junaid</h1>
-<p align="center">As a highly motivated and skilled web developer, I am passionate about creating responsive, user-friendly websites that deliver exceptional user experiences. With proficiency in HTML, CSS, JavaScript, React.js, TypeScript, PHP, Laravel, and Sass, I have the skills necessary to develop dynamic and robust web applications from concept to launch.
+<p>As a highly motivated and skilled web developer, I am passionate about creating responsive, user-friendly websites that deliver exceptional user experiences. With proficiency in HTML, CSS, JavaScript, React.js, TypeScript, PHP, Laravel, and Sass, I have the skills necessary to develop dynamic and robust web applications from concept to launch.
 
 In my previous role, I collaborated with cross-functional teams to develop innovative web solutions that aligned with business goals and delivered measurable results. I possess excellent problem-solving skills and thrive in a fast-paced environment that demands creativity and attention to detail.
 
