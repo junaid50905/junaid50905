@@ -1,12 +1,20 @@
 ![logo](https://i.ibb.co/VjntyxQ/White-Minimalist-Profile-Linked-In-Banner-1.png?w=2000)
-<h1 align="center">Hi, there</h1>
-<p>As a highly motivated and skilled web developer, I am passionate about creating responsive, user-friendly websites that deliver exceptional user experiences. With proficiency in HTML, CSS, JavaScript, React.js, TypeScript, PHP, Laravel, and Sass, I have the skills necessary to develop dynamic and robust web applications from concept to launch.
 
-In my previous role, I collaborated with cross-functional teams to develop innovative web solutions that aligned with business goals and delivered measurable results. I possess excellent problem-solving skills and thrive in a fast-paced environment that demands creativity and attention to detail.
+<p>
+    Hi, I'm Md.Junaid, a Software Developer with 2+ years of experience in building web applications using Laravel and React. I am passionate about creating dynamic, scalable solutions that address real-world business needs while maintaining modern design standards and coding best practices.
 
-My expertise in front-end and back-end development, as well as my ability to integrate third-party APIs, enables me to develop customized web solutions that meet clients' unique needs. I keep up-to-date with the latest web development technologies and trends, and I am constantly seeking to improve my skills and knowledge to stay ahead of the curve.
+At Aamra Infotainment Ltd., I focus on developing and maintaining full-stack web applications, ensuring that both the backend and frontend perform efficiently. My codebase is clean, maintainable, and optimized for performance.
 
-I am an effective communicator and team player, able to work independently or as part of a team, and I enjoy collaborating with clients and stakeholders to ensure their needs are met. I am seeking new opportunities to leverage my skills and experience to contribute to the success of a dynamic and innovative team.</p>
+Skills:
+
+- Laravel & PHP for backend development
+- React & JavaScript for responsive frontend solutions
+- RESTful APIs
+- Database management with MySQL
+- Version control with Git & GitHub
+- Focus on scalability and maintainability
+Feel free to explore my repositories where I showcase various projects that reflect my skills in developing robust web solutions.
+</p>
 <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="coding" width="400"
     height="350">
 
