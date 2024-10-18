@@ -13,6 +13,7 @@ Skills:
 - Database management with MySQL
 - Version control with Git & GitHub
 - Focus on scalability and maintainability
+
 Feel free to explore my repositories where I showcase various projects that reflect my skills in developing robust web solutions.
 </p>
 <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="coding" width="400"
