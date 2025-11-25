@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [mdjunaid.com](mdjunaid.com)
 
-- 💬 Ask me about **I'm Junaid Hossain, a passionate and detail-oriented full-stack web developer with a strong focus on Laravel and React. With hands-on experience in building scalable and user-friendly web applications, I enjoy turning complex problems into elegant, efficient solutions. Over the past months, I’ve worked on a wide range of projects—from HR and payroll systems to event management tools—ensuring performance, security, and user satisfaction. I love writing clean, maintainable code and continuously learning new technologies to stay current in this fast-paced industry. Whether working on backend logic, RESTful APIs, or interactive frontend interfaces, I bring dedication and creativity to every project I take on.**
+- 💬 **I'm Junaid Hossain, a passionate and detail-oriented full-stack web developer with a strong focus on Laravel and React. With hands-on experience in building scalable and user-friendly web applications, I enjoy turning complex problems into elegant, efficient solutions. Over the past months, I’ve worked on a wide range of projects—from HR and payroll systems to event management tools—ensuring performance, security, and user satisfaction. I love writing clean, maintainable code and continuously learning new technologies to stay current in this fast-paced industry. Whether working on backend logic, RESTful APIs, or interactive frontend interfaces, I bring dedication and creativity to every project I take on.**
 
 - 📫 How to reach me **junaidhossain50905@gmail.com**
 
